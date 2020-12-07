@@ -46,7 +46,7 @@ To build a best predictive or machine learning model to predict the probability 
 
 ## Accuracy Results Comparison
 
-![Accuracy Results](https://user-images.githubusercontent.com/58543691/90217837-42b02e80-ddd0-11ea-8209-a748aa4107e9.png)
+![Accuracy Results](acc_results.png)
 
 
 ## Platform Used
