@@ -4,8 +4,6 @@ This repository introduces the Python programming language with an emphasis on P
 
 # Introduction
 
-This course introduces students to the Python programming language with an emphasis on Python's data analytics libraries. Students will learn the fundamentals of Python and key modules including: scipy, numpy, scikit-learn, pandas, statsmodels, and matplotlib. The course covers basic language syntax, object types, variables, reading data from files and writing to files. Building on these concepts, students will create functions, and learn how to control program flow. Students will use Python to clean and prepare data, conduct exploratory data analysis, and build predictive models.
-
 Banking is one of those traditional industries that has gone through a steady transformation over the decades. Yet, many banks today with a large customer base hoping to gain a competitive edge have not tapped into the vast amounts of data they have, especially in solving one of the most acknowledged problems - customer churn.
 
 In general, customer churn is expressed as a degree of customer inactivity or disengagement, observed over a given time.
