@@ -56,4 +56,4 @@ Jupyter Notebooks
 Python
 
 ### Reference
-https://www.kaggle.com/shrutimechlearn/churn-modelling
+Churn_Modelling.csv
