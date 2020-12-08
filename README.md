@@ -1,4 +1,4 @@
-# Python-Programming-CS-632P-Bank Customer Churn Prediction
+# Bank Customer Churn Prediction
 
 This repository introduces the Python programming language with an emphasis on Python's data analytics libraries. Students will learn the fundamentals of Python and key modules including: scipy, numpy, scikit-learn, pandas, statsmodels, and matplotlib. The repository will make efficient use Python to clean and prepare data, conduct exploratory data analysis, and build predictive models.
 
